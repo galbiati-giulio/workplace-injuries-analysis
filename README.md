@@ -328,3 +328,9 @@ Data Analyst
 
 * Email: galbiati.giulio@gmail.com
 * LinkedIn: https://www.linkedin.com/in/giulio-galbiati-bg
+
+  ---
+  ## ⚖️ License
+
+- Code and analysis: MIT License  
+- Data: Eurostat (CC BY 4.0)
