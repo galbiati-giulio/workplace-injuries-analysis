@@ -1,0 +1,421 @@
+eit_id,structure,structure_name,time_frequency,age_id,sex_id,activity_id,isco08_deescription,unit_description,country_id,time_period,obs_value,observation_status
+0,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,A,Total,Thousand persons,IT,2014,225,
+1,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,A,Total,Thousand persons,IT,2015,228.9,
+2,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,A,Total,Thousand persons,IT,2016,240.1,
+3,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,A,Total,Thousand persons,IT,2017,227.8,
+4,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,A,Total,Thousand persons,IT,2018,231.5,break in time series
+5,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,A,Total,Thousand persons,IT,2019,233.4,
+6,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,A,Total,Thousand persons,IT,2020,231.5,
+7,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,A,Total,Thousand persons,IT,2021,235.5,break in time series
+8,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,A,Total,Thousand persons,IT,2022,228.1,
+9,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,A,Total,Thousand persons,IT,2023,218.4,
+10,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,B,Total,Thousand persons,IT,2014,3.9,
+11,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,B,Total,Thousand persons,IT,2015,2.9,
+12,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,B,Total,Thousand persons,IT,2016,4.2,
+13,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,B,Total,Thousand persons,IT,2017,6.2,
+14,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,B,Total,Thousand persons,IT,2018,3.7,break in time series
+15,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,B,Total,Thousand persons,IT,2019,2.9,
+16,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,B,Total,Thousand persons,IT,2020,4.6,
+17,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,B,Total,Thousand persons,IT,2021,4.9,break in time series
+18,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,B,Total,Thousand persons,IT,2022,3.6,
+19,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,B,Total,Thousand persons,IT,2023,2.7,low reliability
+20,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,C,Total,Thousand persons,IT,2014,1093.4,
+21,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,C,Total,Thousand persons,IT,2015,1090.3,
+22,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,C,Total,Thousand persons,IT,2016,1082.9,
+23,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,C,Total,Thousand persons,IT,2017,1084.9,
+24,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,C,Total,Thousand persons,IT,2018,1113.1,break in time series
+25,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,C,Total,Thousand persons,IT,2019,1122.8,
+26,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,C,Total,Thousand persons,IT,2020,1102.1,
+27,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,C,Total,Thousand persons,IT,2021,1089.7,break in time series
+28,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,C,Total,Thousand persons,IT,2022,1170.2,
+29,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,C,Total,Thousand persons,IT,2023,1179.5,
+30,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,D,Total,Thousand persons,IT,2014,24.6,
+31,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,D,Total,Thousand persons,IT,2015,24.4,
+32,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,D,Total,Thousand persons,IT,2016,27.9,
+33,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,D,Total,Thousand persons,IT,2017,28.4,
+34,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,D,Total,Thousand persons,IT,2018,28.7,break in time series
+35,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,D,Total,Thousand persons,IT,2019,29.4,
+36,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,D,Total,Thousand persons,IT,2020,28.5,
+37,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,D,Total,Thousand persons,IT,2021,32,break in time series
+38,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,D,Total,Thousand persons,IT,2022,34.5,
+39,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,D,Total,Thousand persons,IT,2023,39.3,
+40,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,E,Total,Thousand persons,IT,2014,31.7,
+41,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,E,Total,Thousand persons,IT,2015,34.3,
+42,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,E,Total,Thousand persons,IT,2016,30.9,
+43,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,E,Total,Thousand persons,IT,2017,28.6,
+44,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,E,Total,Thousand persons,IT,2018,34,break in time series
+45,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,E,Total,Thousand persons,IT,2019,38.5,
+46,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,E,Total,Thousand persons,IT,2020,40.5,
+47,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,E,Total,Thousand persons,IT,2021,43.8,break in time series
+48,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,E,Total,Thousand persons,IT,2022,44.2,
+49,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,E,Total,Thousand persons,IT,2023,42,
+50,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,F,Total,Thousand persons,IT,2014,96,
+51,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,F,Total,Thousand persons,IT,2015,94.6,
+52,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,F,Total,Thousand persons,IT,2016,88.6,
+53,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,F,Total,Thousand persons,IT,2017,91.7,
+54,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,F,Total,Thousand persons,IT,2018,91.5,break in time series
+55,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,F,Total,Thousand persons,IT,2019,88,
+56,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,F,Total,Thousand persons,IT,2020,101.6,
+57,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,F,Total,Thousand persons,IT,2021,104.8,break in time series
+58,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,F,Total,Thousand persons,IT,2022,116.5,
+59,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,F,Total,Thousand persons,IT,2023,113.7,
+60,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,G,Total,Thousand persons,IT,2014,1338.5,
+61,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,G,Total,Thousand persons,IT,2015,1324.2,
+62,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,G,Total,Thousand persons,IT,2016,1314.6,
+63,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,G,Total,Thousand persons,IT,2017,1341.6,
+64,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,G,Total,Thousand persons,IT,2018,1329.4,break in time series
+65,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,G,Total,Thousand persons,IT,2019,1353,
+66,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,G,Total,Thousand persons,IT,2020,1324.9,
+67,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,G,Total,Thousand persons,IT,2021,1295.6,break in time series
+68,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,G,Total,Thousand persons,IT,2022,1308.7,
+69,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,G,Total,Thousand persons,IT,2023,1355.9,
+70,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,H,Total,Thousand persons,IT,2014,212.9,
+71,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,H,Total,Thousand persons,IT,2015,213.7,
+72,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,H,Total,Thousand persons,IT,2016,221.1,
+73,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,H,Total,Thousand persons,IT,2017,223.2,
+74,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,H,Total,Thousand persons,IT,2018,230.8,break in time series
+75,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,H,Total,Thousand persons,IT,2019,233.6,
+76,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,H,Total,Thousand persons,IT,2020,227,
+77,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,H,Total,Thousand persons,IT,2021,226.1,break in time series
+78,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,H,Total,Thousand persons,IT,2022,237.8,
+79,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,H,Total,Thousand persons,IT,2023,245,
+80,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,I,Total,Thousand persons,IT,2014,656.1,
+81,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,I,Total,Thousand persons,IT,2015,668.5,
+82,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,I,Total,Thousand persons,IT,2016,712.8,
+83,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,I,Total,Thousand persons,IT,2017,733.5,
+84,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,I,Total,Thousand persons,IT,2018,731.7,break in time series
+85,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,I,Total,Thousand persons,IT,2019,738.2,
+86,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,I,Total,Thousand persons,IT,2020,634.9,
+87,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,I,Total,Thousand persons,IT,2021,614.7,break in time series
+88,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,I,Total,Thousand persons,IT,2022,704.1,
+89,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,I,Total,Thousand persons,IT,2023,759.5,
+90,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,J,Total,Thousand persons,IT,2014,161.1,
+91,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,J,Total,Thousand persons,IT,2015,172.6,
+92,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,J,Total,Thousand persons,IT,2016,175.4,
+93,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,J,Total,Thousand persons,IT,2017,170.1,
+94,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,J,Total,Thousand persons,IT,2018,171.7,break in time series
+95,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,J,Total,Thousand persons,IT,2019,181.5,
+96,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,J,Total,Thousand persons,IT,2020,185.2,
+97,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,J,Total,Thousand persons,IT,2021,196.4,break in time series
+98,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,J,Total,Thousand persons,IT,2022,210.4,
+99,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,J,Total,Thousand persons,IT,2023,228.5,
+100,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,K,Total,Thousand persons,IT,2014,277.6,
+101,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,K,Total,Thousand persons,IT,2015,291.4,
+102,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,K,Total,Thousand persons,IT,2016,285.9,
+103,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,K,Total,Thousand persons,IT,2017,285.6,
+104,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,K,Total,Thousand persons,IT,2018,283.2,break in time series
+105,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,K,Total,Thousand persons,IT,2019,285.8,
+106,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,K,Total,Thousand persons,IT,2020,288.6,
+107,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,K,Total,Thousand persons,IT,2021,299.6,break in time series
+108,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,K,Total,Thousand persons,IT,2022,285.1,
+109,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,K,Total,Thousand persons,IT,2023,268,
+110,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,L,Total,Thousand persons,IT,2014,52,
+111,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,L,Total,Thousand persons,IT,2015,58.2,
+112,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,L,Total,Thousand persons,IT,2016,63.4,
+113,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,L,Total,Thousand persons,IT,2017,61.5,
+114,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,L,Total,Thousand persons,IT,2018,62.6,break in time series
+115,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,L,Total,Thousand persons,IT,2019,75.5,
+116,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,L,Total,Thousand persons,IT,2020,76.3,
+117,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,L,Total,Thousand persons,IT,2021,61.1,break in time series
+118,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,L,Total,Thousand persons,IT,2022,70,
+119,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,L,Total,Thousand persons,IT,2023,74.2,
+120,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,M,Total,Thousand persons,IT,2014,640.5,
+121,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,M,Total,Thousand persons,IT,2015,633.4,
+122,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,M,Total,Thousand persons,IT,2016,665.7,
+123,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,M,Total,Thousand persons,IT,2017,675.7,
+124,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,M,Total,Thousand persons,IT,2018,684.1,break in time series
+125,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,M,Total,Thousand persons,IT,2019,706.8,
+126,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,M,Total,Thousand persons,IT,2020,688.7,
+127,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,M,Total,Thousand persons,IT,2021,680.9,break in time series
+128,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,M,Total,Thousand persons,IT,2022,698.7,
+129,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,M,Total,Thousand persons,IT,2023,738.4,
+130,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,N,Total,Thousand persons,IT,2014,488.7,
+131,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,N,Total,Thousand persons,IT,2015,506.7,
+132,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,N,Total,Thousand persons,IT,2016,525.5,
+133,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,N,Total,Thousand persons,IT,2017,510.7,
+134,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,N,Total,Thousand persons,IT,2018,523.9,break in time series
+135,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,N,Total,Thousand persons,IT,2019,529.7,
+136,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,N,Total,Thousand persons,IT,2020,501.5,
+137,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,N,Total,Thousand persons,IT,2021,517.6,break in time series
+138,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,N,Total,Thousand persons,IT,2022,528.8,
+139,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,N,Total,Thousand persons,IT,2023,509.7,
+140,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,O,Total,Thousand persons,IT,2014,438.2,
+141,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,O,Total,Thousand persons,IT,2015,420.9,
+142,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,O,Total,Thousand persons,IT,2016,419.7,
+143,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,O,Total,Thousand persons,IT,2017,433.8,
+144,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,O,Total,Thousand persons,IT,2018,432.5,break in time series
+145,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,O,Total,Thousand persons,IT,2019,430.9,
+146,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,O,Total,Thousand persons,IT,2020,421.2,
+147,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,O,Total,Thousand persons,IT,2021,404.8,break in time series
+148,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,O,Total,Thousand persons,IT,2022,395.8,
+149,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,O,Total,Thousand persons,IT,2023,416.1,
+150,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,P,Total,Thousand persons,IT,2014,1128.5,
+151,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,P,Total,Thousand persons,IT,2015,1135.4,
+152,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,P,Total,Thousand persons,IT,2016,1162.5,
+153,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,P,Total,Thousand persons,IT,2017,1217.2,
+154,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,P,Total,Thousand persons,IT,2018,1193.2,break in time series
+155,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,P,Total,Thousand persons,IT,2019,1192,
+156,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,P,Total,Thousand persons,IT,2020,1208.2,
+157,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,P,Total,Thousand persons,IT,2021,1218.8,break in time series
+158,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,P,Total,Thousand persons,IT,2022,1197.3,
+159,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,P,Total,Thousand persons,IT,2023,1266.6,
+160,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,Q,Total,Thousand persons,IT,2014,1256.9,
+161,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,Q,Total,Thousand persons,IT,2015,1250,
+162,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,Q,Total,Thousand persons,IT,2016,1270.6,
+163,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,Q,Total,Thousand persons,IT,2017,1305.9,
+164,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,Q,Total,Thousand persons,IT,2018,1315.3,break in time series
+165,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,Q,Total,Thousand persons,IT,2019,1333.3,
+166,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,Q,Total,Thousand persons,IT,2020,1310.6,
+167,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,Q,Total,Thousand persons,IT,2021,1336.5,break in time series
+168,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,Q,Total,Thousand persons,IT,2022,1336.4,
+169,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,Q,Total,Thousand persons,IT,2023,1381.7,
+170,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,R,Total,Thousand persons,IT,2014,137,
+171,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,R,Total,Thousand persons,IT,2015,142.3,
+172,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,R,Total,Thousand persons,IT,2016,149.3,
+173,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,R,Total,Thousand persons,IT,2017,139.9,
+174,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,R,Total,Thousand persons,IT,2018,126.2,break in time series
+175,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,R,Total,Thousand persons,IT,2019,132.9,
+176,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,R,Total,Thousand persons,IT,2020,125.2,
+177,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,R,Total,Thousand persons,IT,2021,113.8,break in time series
+178,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,R,Total,Thousand persons,IT,2022,133.8,
+179,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,R,Total,Thousand persons,IT,2023,142.4,
+180,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,S,Total,Thousand persons,IT,2014,403.3,
+181,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,S,Total,Thousand persons,IT,2015,403.3,
+182,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,S,Total,Thousand persons,IT,2016,406.6,
+183,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,S,Total,Thousand persons,IT,2017,428,
+184,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,S,Total,Thousand persons,IT,2018,438.2,break in time series
+185,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,S,Total,Thousand persons,IT,2019,435.7,
+186,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,S,Total,Thousand persons,IT,2020,433.1,
+187,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,S,Total,Thousand persons,IT,2021,442,break in time series
+188,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,S,Total,Thousand persons,IT,2022,478.8,
+189,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,S,Total,Thousand persons,IT,2023,463.9,
+190,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,T,Total,Thousand persons,IT,2014,661.4,
+191,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,T,Total,Thousand persons,IT,2015,676.5,
+192,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,T,Total,Thousand persons,IT,2016,669.3,
+193,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,T,Total,Thousand persons,IT,2017,668.1,
+194,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,T,Total,Thousand persons,IT,2018,646.8,break in time series
+195,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,T,Total,Thousand persons,IT,2019,626.5,
+196,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,T,Total,Thousand persons,IT,2020,560.5,
+197,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,T,Total,Thousand persons,IT,2021,584.8,break in time series
+198,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,T,Total,Thousand persons,IT,2022,556.3,
+199,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,T,Total,Thousand persons,IT,2023,535.7,
+200,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,U,Total,Thousand persons,IT,2014,6.2,
+201,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,U,Total,Thousand persons,IT,2015,7.5,
+202,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,U,Total,Thousand persons,IT,2016,7.7,
+203,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,U,Total,Thousand persons,IT,2017,11.3,
+204,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,U,Total,Thousand persons,IT,2018,8.4,break in time series
+205,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,U,Total,Thousand persons,IT,2019,6.6,
+206,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,U,Total,Thousand persons,IT,2020,7.7,
+207,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,U,Total,Thousand persons,IT,2021,7,break in time series
+208,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,U,Total,Thousand persons,IT,2022,10,
+209,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,F,U,Total,Thousand persons,IT,2023,7.3,
+210,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,A,Total,Thousand persons,IT,2014,586.6,
+211,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,A,Total,Thousand persons,IT,2015,613.9,
+212,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,A,Total,Thousand persons,IT,2016,643.9,
+213,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,A,Total,Thousand persons,IT,2017,643.1,
+214,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,A,Total,Thousand persons,IT,2018,627.9,break in time series
+215,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,A,Total,Thousand persons,IT,2019,663.9,
+216,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,A,Total,Thousand persons,IT,2020,675.8,
+217,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,A,Total,Thousand persons,IT,2021,678,break in time series
+218,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,A,Total,Thousand persons,IT,2022,646.8,
+219,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,A,Total,Thousand persons,IT,2023,629.2,
+220,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,B,Total,Thousand persons,IT,2014,35,
+221,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,B,Total,Thousand persons,IT,2015,31.2,
+222,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,B,Total,Thousand persons,IT,2016,28.3,
+223,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,B,Total,Thousand persons,IT,2017,26,
+224,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,B,Total,Thousand persons,IT,2018,21.1,break in time series
+225,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,B,Total,Thousand persons,IT,2019,21.7,
+226,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,B,Total,Thousand persons,IT,2020,28.1,
+227,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,B,Total,Thousand persons,IT,2021,26.1,break in time series
+228,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,B,Total,Thousand persons,IT,2022,27.7,
+229,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,B,Total,Thousand persons,IT,2023,27.4,
+230,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,C,Total,Thousand persons,IT,2014,3040.8,
+231,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,C,Total,Thousand persons,IT,2015,3031.5,
+232,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,C,Total,Thousand persons,IT,2016,3065.4,
+233,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,C,Total,Thousand persons,IT,2017,3102.7,
+234,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,C,Total,Thousand persons,IT,2018,3119.3,break in time series
+235,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,C,Total,Thousand persons,IT,2019,3164.6,
+236,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,C,Total,Thousand persons,IT,2020,3142.9,
+237,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,C,Total,Thousand persons,IT,2021,3094.9,break in time series
+238,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,C,Total,Thousand persons,IT,2022,3088.2,
+239,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,C,Total,Thousand persons,IT,2023,3140.6,
+240,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,D,Total,Thousand persons,IT,2014,83.2,
+241,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,D,Total,Thousand persons,IT,2015,89.5,
+242,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,D,Total,Thousand persons,IT,2016,97.6,
+243,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,D,Total,Thousand persons,IT,2017,92.3,
+244,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,D,Total,Thousand persons,IT,2018,79.4,break in time series
+245,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,D,Total,Thousand persons,IT,2019,83.8,
+246,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,D,Total,Thousand persons,IT,2020,87.2,
+247,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,D,Total,Thousand persons,IT,2021,80.9,break in time series
+248,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,D,Total,Thousand persons,IT,2022,83.5,
+249,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,D,Total,Thousand persons,IT,2023,107.1,
+250,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,E,Total,Thousand persons,IT,2014,196.6,
+251,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,E,Total,Thousand persons,IT,2015,203.2,
+252,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,E,Total,Thousand persons,IT,2016,203.9,
+253,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,E,Total,Thousand persons,IT,2017,201.5,
+254,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,E,Total,Thousand persons,IT,2018,212.3,break in time series
+255,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,E,Total,Thousand persons,IT,2019,202.5,
+256,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,E,Total,Thousand persons,IT,2020,200.6,
+257,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,E,Total,Thousand persons,IT,2021,205.2,break in time series
+258,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,E,Total,Thousand persons,IT,2022,204.4,
+259,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,E,Total,Thousand persons,IT,2023,211.7,
+260,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,F,Total,Thousand persons,IT,2014,1387.9,
+261,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,F,Total,Thousand persons,IT,2015,1373.6,
+262,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,F,Total,Thousand persons,IT,2016,1315.1,
+263,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,F,Total,Thousand persons,IT,2017,1324,
+264,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,F,Total,Thousand persons,IT,2018,1293.7,break in time series
+265,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,F,Total,Thousand persons,IT,2019,1235.1,
+266,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,F,Total,Thousand persons,IT,2020,1239.9,
+267,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,F,Total,Thousand persons,IT,2021,1326,break in time series
+268,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,F,Total,Thousand persons,IT,2022,1434.2,
+269,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,F,Total,Thousand persons,IT,2023,1417.2,
+270,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,G,Total,Thousand persons,IT,2014,1888,
+271,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,G,Total,Thousand persons,IT,2015,1869.9,
+272,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,G,Total,Thousand persons,IT,2016,1926.6,
+273,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,G,Total,Thousand persons,IT,2017,1945.5,
+274,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,G,Total,Thousand persons,IT,2018,1926.2,break in time series
+275,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,G,Total,Thousand persons,IT,2019,1903,
+276,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,G,Total,Thousand persons,IT,2020,1830,
+277,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,G,Total,Thousand persons,IT,2021,1811.1,break in time series
+278,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,G,Total,Thousand persons,IT,2022,1828.4,
+279,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,G,Total,Thousand persons,IT,2023,1834,
+280,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,H,Total,Thousand persons,IT,2014,826.3,
+281,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,H,Total,Thousand persons,IT,2015,819.4,
+282,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,H,Total,Thousand persons,IT,2016,863.8,
+283,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,H,Total,Thousand persons,IT,2017,886.4,
+284,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,H,Total,Thousand persons,IT,2018,887,break in time series
+285,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,H,Total,Thousand persons,IT,2019,898.2,
+286,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,H,Total,Thousand persons,IT,2020,887.2,
+287,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,H,Total,Thousand persons,IT,2021,915.2,break in time series
+288,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,H,Total,Thousand persons,IT,2022,929.5,
+289,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,H,Total,Thousand persons,IT,2023,935,
+290,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,I,Total,Thousand persons,IT,2014,613.3,
+291,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,I,Total,Thousand persons,IT,2015,665.4,
+292,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,I,Total,Thousand persons,IT,2016,682.1,
+293,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,I,Total,Thousand persons,IT,2017,717.5,
+294,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,I,Total,Thousand persons,IT,2018,707,break in time series
+295,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,I,Total,Thousand persons,IT,2019,718.6,
+296,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,I,Total,Thousand persons,IT,2020,656.2,
+297,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,I,Total,Thousand persons,IT,2021,588.1,break in time series
+298,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,I,Total,Thousand persons,IT,2022,700.9,
+299,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,I,Total,Thousand persons,IT,2023,751.6,
+300,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,J,Total,Thousand persons,IT,2014,390.3,
+301,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,J,Total,Thousand persons,IT,2015,388.9,
+302,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,J,Total,Thousand persons,IT,2016,386.6,
+303,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,J,Total,Thousand persons,IT,2017,394.6,
+304,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,J,Total,Thousand persons,IT,2018,426.9,break in time series
+305,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,J,Total,Thousand persons,IT,2019,432.5,
+306,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,J,Total,Thousand persons,IT,2020,429.5,
+307,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,J,Total,Thousand persons,IT,2021,459.3,break in time series
+308,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,J,Total,Thousand persons,IT,2022,478.1,
+309,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,J,Total,Thousand persons,IT,2023,547.5,
+310,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,K,Total,Thousand persons,IT,2014,334,
+311,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,K,Total,Thousand persons,IT,2015,352.3,
+312,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,K,Total,Thousand persons,IT,2016,362.8,
+313,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,K,Total,Thousand persons,IT,2017,352.1,
+314,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,K,Total,Thousand persons,IT,2018,355.6,break in time series
+315,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,K,Total,Thousand persons,IT,2019,347.7,
+316,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,K,Total,Thousand persons,IT,2020,327.7,
+317,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,K,Total,Thousand persons,IT,2021,325.5,break in time series
+318,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,K,Total,Thousand persons,IT,2022,319.9,
+319,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,K,Total,Thousand persons,IT,2023,338.6,
+320,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,L,Total,Thousand persons,IT,2014,73.7,
+321,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,L,Total,Thousand persons,IT,2015,74.1,
+322,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,L,Total,Thousand persons,IT,2016,77.2,
+323,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,L,Total,Thousand persons,IT,2017,82.7,
+324,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,L,Total,Thousand persons,IT,2018,85.4,break in time series
+325,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,L,Total,Thousand persons,IT,2019,86.9,
+326,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,L,Total,Thousand persons,IT,2020,77,
+327,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,L,Total,Thousand persons,IT,2021,75,break in time series
+328,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,L,Total,Thousand persons,IT,2022,86.1,
+329,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,L,Total,Thousand persons,IT,2023,84.7,
+330,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,M,Total,Thousand persons,IT,2014,762.9,
+331,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,M,Total,Thousand persons,IT,2015,782.4,
+332,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,M,Total,Thousand persons,IT,2016,793.5,
+333,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,M,Total,Thousand persons,IT,2017,781.6,
+334,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,M,Total,Thousand persons,IT,2018,792.5,break in time series
+335,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,M,Total,Thousand persons,IT,2019,801.8,
+336,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,M,Total,Thousand persons,IT,2020,806.4,
+337,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,M,Total,Thousand persons,IT,2021,803.2,break in time series
+338,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,M,Total,Thousand persons,IT,2022,814.4,
+339,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,M,Total,Thousand persons,IT,2023,857.3,
+340,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,N,Total,Thousand persons,IT,2014,418.7,
+341,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,N,Total,Thousand persons,IT,2015,461.6,
+342,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,N,Total,Thousand persons,IT,2016,465.8,
+343,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,N,Total,Thousand persons,IT,2017,455,
+344,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,N,Total,Thousand persons,IT,2018,471.3,break in time series
+345,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,N,Total,Thousand persons,IT,2019,486.8,
+346,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,N,Total,Thousand persons,IT,2020,450.9,
+347,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,N,Total,Thousand persons,IT,2021,462.5,break in time series
+348,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,N,Total,Thousand persons,IT,2022,477.8,
+349,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,N,Total,Thousand persons,IT,2023,463.6,
+350,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,O,Total,Thousand persons,IT,2014,841.5,
+351,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,O,Total,Thousand persons,IT,2015,872.5,
+352,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,O,Total,Thousand persons,IT,2016,842.5,
+353,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,O,Total,Thousand persons,IT,2017,826.1,
+354,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,O,Total,Thousand persons,IT,2018,802.6,break in time series
+355,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,O,Total,Thousand persons,IT,2019,804.9,
+356,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,O,Total,Thousand persons,IT,2020,778.4,
+357,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,O,Total,Thousand persons,IT,2021,742.9,break in time series
+358,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,O,Total,Thousand persons,IT,2022,746.4,
+359,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,O,Total,Thousand persons,IT,2023,765.7,
+360,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,P,Total,Thousand persons,IT,2014,384.8,
+361,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,P,Total,Thousand persons,IT,2015,373.2,
+362,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,P,Total,Thousand persons,IT,2016,380.3,
+363,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,P,Total,Thousand persons,IT,2017,397,
+364,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,P,Total,Thousand persons,IT,2018,385.4,break in time series
+365,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,P,Total,Thousand persons,IT,2019,388,
+366,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,P,Total,Thousand persons,IT,2020,405.6,
+367,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,P,Total,Thousand persons,IT,2021,396.4,break in time series
+368,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,P,Total,Thousand persons,IT,2022,406.6,
+369,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,P,Total,Thousand persons,IT,2023,404.1,
+370,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,Q,Total,Thousand persons,IT,2014,547.2,
+371,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,Q,Total,Thousand persons,IT,2015,546.3,
+372,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,Q,Total,Thousand persons,IT,2016,560.8,
+373,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,Q,Total,Thousand persons,IT,2017,557.4,
+374,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,Q,Total,Thousand persons,IT,2018,564.2,break in time series
+375,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,Q,Total,Thousand persons,IT,2019,576.5,
+376,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,Q,Total,Thousand persons,IT,2020,552.9,
+377,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,Q,Total,Thousand persons,IT,2021,550.8,break in time series
+378,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,Q,Total,Thousand persons,IT,2022,546.4,
+379,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,Q,Total,Thousand persons,IT,2023,549.9,
+380,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,R,Total,Thousand persons,IT,2014,160.9,
+381,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,R,Total,Thousand persons,IT,2015,160.9,
+382,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,R,Total,Thousand persons,IT,2016,174.3,
+383,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,R,Total,Thousand persons,IT,2017,194.2,
+384,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,R,Total,Thousand persons,IT,2018,178.7,break in time series
+385,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,R,Total,Thousand persons,IT,2019,182.3,
+386,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,R,Total,Thousand persons,IT,2020,176.5,
+387,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,R,Total,Thousand persons,IT,2021,150.3,break in time series
+388,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,R,Total,Thousand persons,IT,2022,173.9,
+389,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,R,Total,Thousand persons,IT,2023,191.8,
+390,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,S,Total,Thousand persons,IT,2014,248.7,
+391,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,S,Total,Thousand persons,IT,2015,255.6,
+392,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,S,Total,Thousand persons,IT,2016,260.8,
+393,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,S,Total,Thousand persons,IT,2017,265.6,
+394,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,S,Total,Thousand persons,IT,2018,268.3,break in time series
+395,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,S,Total,Thousand persons,IT,2019,268.6,
+396,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,S,Total,Thousand persons,IT,2020,273.5,
+397,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,S,Total,Thousand persons,IT,2021,261.4,break in time series
+398,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,S,Total,Thousand persons,IT,2022,267.1,
+399,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,S,Total,Thousand persons,IT,2023,245.5,
+400,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,T,Total,Thousand persons,IT,2014,114.7,
+401,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,T,Total,Thousand persons,IT,2015,110,
+402,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,T,Total,Thousand persons,IT,2016,93.7,
+403,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,T,Total,Thousand persons,IT,2017,95.4,
+404,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,T,Total,Thousand persons,IT,2018,90.1,break in time series
+405,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,T,Total,Thousand persons,IT,2019,84.9,
+406,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,T,Total,Thousand persons,IT,2020,79.4,
+407,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,T,Total,Thousand persons,IT,2021,81.6,break in time series
+408,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,T,Total,Thousand persons,IT,2022,81.1,
+409,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,T,Total,Thousand persons,IT,2023,78.9,
+410,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,U,Total,Thousand persons,IT,2014,9.8,
+411,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,U,Total,Thousand persons,IT,2015,9.1,
+412,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,U,Total,Thousand persons,IT,2016,7.7,
+413,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,U,Total,Thousand persons,IT,2017,7.8,
+414,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,U,Total,Thousand persons,IT,2018,9.1,break in time series
+415,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,U,Total,Thousand persons,IT,2019,7.2,
+416,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,U,Total,Thousand persons,IT,2020,9.4,
+417,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,U,Total,Thousand persons,IT,2021,9.4,break in time series
+418,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,U,Total,Thousand persons,IT,2022,8.9,
+419,dataflow,Employed persons by occupation and economic activity (NACE Rev. 2) (2008-2026),Annual,Y_GE15,M,U,Total,Thousand persons,IT,2023,10,

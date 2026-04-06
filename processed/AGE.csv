@@ -1,0 +1,6 @@
+age_id,age_class_description
+Y_GE15,15 years or over
+UNK,Unknown
+Y_GE55,55 years or over
+Y_LT25,Less than 25 years
+Y25-54,From 25 to 54 years
