@@ -1,7 +1,7 @@
 # 🚀 Workplace Injuries Analysis — Transportation & Storage (Italy)
 
-👉 **Focus:** Data Analysis • Risk Modeling • Data Visualization
-👉 **Tools:** SQL (SQLite) | Tableau | Excel
+👉 **Focus:** Data Analysis • Risk Modeling • Data Visualization  
+👉 **Tools:** SQL (SQLite) | Tableau | Excel  
 👉 **Tech Stack:** SQL | SQLite | Tableau | Excel | Data Modeling | EDA
 
 ---
