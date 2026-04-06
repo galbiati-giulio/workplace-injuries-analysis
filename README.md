@@ -332,5 +332,11 @@ Data Analyst
   ---
   ## ⚖️ License
 
-- Code and analysis: MIT License  
-- Data: Eurostat (CC BY 4.0)
+- Code and analysis: MIT License (see LICENSE file)  
+- Data: Eurostat (Creative Commons Attribution 4.0 International — CC BY 4.0)
+
+Data source: https://ec.europa.eu/eurostat  
+
+© European Union, Eurostat
+
+This project includes data reused under the terms of the CC BY 4.0 license.
