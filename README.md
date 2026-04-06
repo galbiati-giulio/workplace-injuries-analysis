@@ -331,7 +331,7 @@ Data Analyst
 
 ---
 
-## 📊 Data Source & License
+## 📊 Data Source
 
 This project uses data from **Eurostat**.
 
@@ -340,4 +340,13 @@ This project uses data from **Eurostat**.
 
 © European Union, Eurostat
 
-The data is used in accordance with the terms of the license, which allows reuse with appropriate attribution.
+---
+
+## ⚖️ License
+
+- Code and analysis: MIT License (see LICENSE file)  
+- Data: Eurostat (CC BY 4.0)
+
+The data is reused in accordance with the terms of the license, which allows sharing and adaptation with appropriate attribution.
+
+More information: https://creativecommons.org/licenses/by/4.0/
