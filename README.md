@@ -329,7 +329,7 @@ Data Analyst
 * Email: galbiati.giulio@gmail.com
 * LinkedIn: https://www.linkedin.com/in/giulio-galbiati-bg
 
-  ---
+---
   ## ⚖️ License
 
 - Code and analysis: MIT License (see LICENSE file)  
