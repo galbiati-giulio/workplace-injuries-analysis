@@ -22,7 +22,7 @@ Key findings:
 
 The project is designed as a **decision-support tool**, enabling stakeholders to identify **where risk is concentrated and where to act**.
 
-![Dashboard Preview](visuals/dashboard_overview.png)
+![Datafolio Preview](visuals/Datafolio.PNG)
 
 ---
 
