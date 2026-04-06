@@ -125,6 +125,7 @@ Provides interactive exploration of risk patterns, drivers, and cross-country co
 ## 📁 Project Structure
 
 workplace-injuries-analysis/
+---
 │
 ├── data/
 │ ├── raw/
