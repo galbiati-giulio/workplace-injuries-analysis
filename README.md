@@ -127,24 +127,27 @@ Provides interactive exploration of risk patterns, drivers, and cross-country co
 workplace-injuries-analysis/
 │
 ├── data/
-│ ├── raw/
-│ └── processed/
+│   ├── raw/                # Original datasets (source files)
+│   └── processed/          # Cleaned and transformed datasets
 │
 ├── db/
-│ └── WRI_1.0.db
+│   └── WRI_1.0.db          # SQLite database (optional / large file)
 │
-├── sql/
-│ ├── 3.1/
-│ ├── 3.2/
-│ ├── 3.3/
-│ ├── 3.4/
-│ ├── 3.5/
-│ ├── 4/
-│ └── KPI/
+├── sql/                    # SQL queries by analysis phase
+│   ├── 3.1/                # Employment structure (cross-country)
+│   ├── 3.2/                # Injury incidence (cross-country)
+│   ├── 3.3/                # Italy cross-sector benchmark
+│   ├── 3.4/                # Risk drivers (accident circumstances)
+│   ├── 3.5/                # Employment structure (Italy)
+│   ├── 4/                  # Synthesis (exposure vs risk)
+│   └── KPI/                # KPIs and validation queries
 │
-├── visuals/
-├── reports/
-└── README.md
+├── visuals/                # Dashboard images and charts
+│
+├── reports/                # Datafolio, EDA documentation, final report
+│
+├── README.md               # Project overview
+└── LICENSE
 
 ---
 
