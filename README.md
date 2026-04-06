@@ -124,29 +124,29 @@ Provides interactive exploration of risk patterns, drivers, and cross-country co
 
 ## 📁 Project Structure
 
-- workplace-injuries-analysis/
--│
--├── data/
--│ ├── raw/
--│ └── processed/
--│
--├── db/
--│ └── WRI_1.0.db
--│
--├── sql/
--│ ├── 3.1/
--│ ├── 3.2/
--│ ├── 3.3/
--│ ├── 3.4/
--│ ├── 3.5/
--│ ├── 4/
--│ └── KPI/
--│
--├── visuals/
--├── reports/
--│
--├── README.md
--└── LICENSE
+workplace-injuries-analysis/
+│
+├── data/
+│ ├── raw/
+│ └── processed/
+│
+├── db/
+│ └── WRI_1.0.db
+│
+├── sql/
+│ ├── 3.1/
+│ ├── 3.2/
+│ ├── 3.3/
+│ ├── 3.4/
+│ ├── 3.5/
+│ ├── 4/
+│ └── KPI/
+│
+├── visuals/
+├── reports/
+│
+├── README.md
+└── LICENSE
 
 ---
 
