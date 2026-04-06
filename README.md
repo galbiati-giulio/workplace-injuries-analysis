@@ -123,7 +123,7 @@ Provides interactive exploration of risk patterns, drivers, and cross-country co
 ---
 
 ## 📁 Project Structure
-
+---
 workplace-injuries-analysis/
 │
 ├── data/
@@ -147,7 +147,6 @@ workplace-injuries-analysis/
 │
 ├── README.md
 └── LICENSE
-
 ---
 
 ## 📊 SQL Output Samples
