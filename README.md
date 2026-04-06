@@ -330,13 +330,14 @@ Data Analyst
 * LinkedIn: https://www.linkedin.com/in/giulio-galbiati-bg
 
 ---
-  ## ⚖️ License
 
-- Code and analysis: MIT License (see LICENSE file)  
-- Data: Eurostat (Creative Commons Attribution 4.0 International — CC BY 4.0)
+## 📊 Data Source & License
 
-Data source: https://ec.europa.eu/eurostat  
+This project uses data from **Eurostat**.
+
+- Source: https://ec.europa.eu/eurostat  
+- License: Creative Commons Attribution 4.0 International (CC BY 4.0)
 
 © European Union, Eurostat
 
-This project includes data reused under the terms of the CC BY 4.0 license.
+The data is used in accordance with the terms of the license, which allows reuse with appropriate attribution.
